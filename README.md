@@ -1,3 +1,4 @@
+[Medium post link](https://medium.com/@sharmavarun.cs/power-of-tf-idf-demonstrated-using-pyspark-on-arxiv-dataset-6e12d27c0692)
 # arXiv-searching-TFIDF
 Code explaining how to match the title with the abstracts of arXiv research papers by using the TF-IDF and cosine similarity techniques.
 
